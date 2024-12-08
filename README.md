@@ -3,10 +3,10 @@
 This project is a simple and interactive Timer Application that allows users to set a timer for specific actions such as shutdown, sleep, or restart. The application features a countdown timer with options to pause, resume, or cancel the countdown.
 
 **Timer Input Page**
-![Timer Input Page](timer_page.png)
+![Timer Input Page](timer_page.PNG)
 
 **Countdown Page**
-![Countdown Page](countdown_page.png)
+![Countdown Page](countdown_page.PNG)
 
 
 ## Features
